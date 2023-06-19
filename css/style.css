@@ -98,3 +98,9 @@ a {
   height: 80%;
   margin: 0 auto;
 }
+
+/* BLOCK PINK BLUE */
+.background-grey {
+  background-color: #d3d3d3;
+  height: 500px;
+}
