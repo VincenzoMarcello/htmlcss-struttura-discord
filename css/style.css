@@ -22,6 +22,14 @@
   border: 1px dashed black;
 }
 
+.justify-center {
+  justify-content: center;
+}
+
+.justify-end {
+  justify-content: flex-end;
+}
+
 .align-center {
   align-items: center;
 }
@@ -45,4 +53,8 @@
 header {
   background-color: #a7d1de;
   height: 100px;
+}
+
+a {
+  padding: 0 15px;
 }
