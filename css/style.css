@@ -118,3 +118,37 @@ a {
   background-color: #228b22;
   margin: 0 auto;
 }
+
+/* BLOCK DARKPINK */
+
+.background-darkgrey {
+  background-color: #23272a;
+  height: 500px;
+  border-bottom: 2px solid #d3d3d3;
+}
+
+.col-sm-d {
+  width: 25%;
+  height: 90%;
+  margin: 15px auto;
+}
+
+.col-la-d {
+  width: 75%;
+  height: 90%;
+  margin: 15px auto;
+}
+
+.background-darkpink {
+  background-color: #f08080;
+}
+
+.col-sm-footer {
+  width: calc(100% / 4);
+  height: 100%;
+  background-color: #20b2aa;
+}
+
+.border-f {
+  border: 2px dashed white;
+}
