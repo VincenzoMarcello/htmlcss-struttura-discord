@@ -34,18 +34,16 @@
   align-items: center;
 }
 
-.orange {
-  background-color: #daa520;
-}
-
 .col-c {
   width: 50%;
   min-height: 50px;
+  background-color: #daa520;
 }
 
 .col-lr {
   width: 25%;
   min-height: 50px;
+  background-color: #daa520;
 }
 
 /* HEADER */
@@ -55,6 +53,20 @@ header {
   height: 100px;
 }
 
+/* SECTION */
+
 a {
   padding: 0 15px;
+}
+
+.background-blue {
+  background-color: #00008b;
+  height: 500px;
+}
+
+.col-big {
+  width: 50%;
+  height: 80%;
+  background-color: #ee82ee;
+  margin: 0 auto;
 }
